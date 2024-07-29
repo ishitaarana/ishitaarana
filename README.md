@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ishitaarana
-- 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning frontend programming
 - 📫 ishitaranaa01@gmail.com
 
 <!---
